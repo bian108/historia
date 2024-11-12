@@ -44,7 +44,7 @@ background: linear-gradient(to bottom, #d28e88 0%,#94413c 100%);
 }
 
 #centro  {
-	height:15380px;
+	height:15250px;
 	width: 1400px;
 	background-color:#e4dcce;
 }
@@ -97,7 +97,7 @@ caja-sombra: -3px
 
 #caja5 {
 	width:660px;
-	height:685px;
+	height:700px;
 	float: right;
 	background-color: #778185;
 	margin-top:0px;
